@@ -1,0 +1,172 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Alice Johnson",
+      "review": "Excellent at explaining complex topics in an understandable way.",
+      "subject": "Mathematics",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Michael Smith",
+      "review": "Engaging lectures but sometimes hard to follow.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Emily Brown",
+      "review": "Very knowledgeable, but strict on deadlines.",
+      "subject": "Computer Science",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. James White",
+      "review": "Passionate about history and great storytelling.",
+      "subject": "History",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "review": "Approachable and always ready to help students.",
+      "subject": "Biology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Robert King",
+      "review": "Good professor but gives a lot of homework.",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. William Scott",
+      "review": "Very challenging course, but worth it.",
+      "subject": "Economics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Jennifer Adams",
+      "review": "Creative teaching methods make the class fun.",
+      "subject": "English Literature",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Daniel Martinez",
+      "review": "Expect tough exams but fair grading.",
+      "subject": "Mechanical Engineering",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Sarah Wilson",
+      "review": "Patient and thorough in explaining concepts.",
+      "subject": "Psychology",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Thomas Miller",
+      "review": "Provides useful real-world examples.",
+      "subject": "Business Administration",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Olivia Taylor",
+      "review": "Very friendly but assignments are tough.",
+      "subject": "Sociology",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Christopher Hernandez",
+      "review": "Great insights but sometimes too fast-paced.",
+      "subject": "Political Science",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Amanda Lee",
+      "review": "Highly organized and structured lessons.",
+      "subject": "Education",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Richard Perez",
+      "review": "A tough grader but very knowledgeable.",
+      "subject": "Philosophy",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Jessica Clark",
+      "review": "Makes statistics easy to understand.",
+      "subject": "Statistics",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Brian Robinson",
+      "review": "Sometimes unorganized but very passionate.",
+      "subject": "Anthropology",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Elizabeth Walker",
+      "review": "Gives great career advice alongside coursework.",
+      "subject": "Marketing",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. David Hall",
+      "review": "Challenging coursework but very rewarding.",
+      "subject": "Architecture",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Jennifer Lewis",
+      "review": "Brilliant professor but not always available.",
+      "subject": "Medicine",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Anthony Young",
+      "review": "Very patient and helps students individually.",
+      "subject": "Environmental Science",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Kimberly Allen",
+      "review": "Explains concepts clearly but is a strict grader.",
+      "subject": "Finance",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Matthew Wright",
+      "review": "Highly engaging and interactive lectures.",
+      "subject": "Journalism",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Megan Torres",
+      "review": "Great professor with a passion for teaching.",
+      "subject": "Fine Arts",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Kevin Baker",
+      "review": "Difficult exams but well-structured classes.",
+      "subject": "Law",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Laura Gonzalez",
+      "review": "Incredible teaching style, very motivating.",
+      "subject": "Music",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Nicholas Carter",
+      "review": "Sometimes hard to reach outside class.",
+      "subject": "Astronomy",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Rachel Diaz",
+      "review": "Helpful but assignments are overwhelming.",
+      "subject": "Nursing",
+      "stars": 3
+    }
+  ]
+}
